@@ -118,38 +118,38 @@ namespace WebApplicationEmpleado.Controllers
                 return resp;
             }
         }
-        //NO TERMINADO.
+
         //Método para actualizar datos.
-        //[HttpPut]
-        //[Route("api/v1/updateEmpleado")]
-        //public respuesta actualizar(empleados empleado)
-        //{
-        //    respuesta resp = new respuesta();
-        //    try
-        //    {
-        //        empleadoEntity emp = new empleadoEntity(empleado.rut, empleado.nombre, empleado.apellido, empleado.mail, empleado.telefono);
-        //        int estado = emp.actualizar();
-        //        if (estado == 1)
-        //        {
-        //            resp.error = false;
-        //            resp.mensaje = "Empleado actualizado";
-        //            resp.data = empleado;
-        //        }
-        //        else
-        //        {
-        //            resp.error = true;
-        //            resp.mensaje = "No se realizó la actualización";
-        //            resp.data = null;
-        //        }
-        //        return resp;
-        //    }
-        //    catch (Exception e)
-        //    {
-        //        resp.error = true;
-        //        resp.mensaje = "Error:" + e.Message;
-        //        resp.data = null;
-        //        return resp;
-        //    }
-        //}
+        [HttpPut]
+        [Route("api/v1/updateEmpleado")]
+        public respuesta actualizar(empleados empleado)
+        {
+            respuesta resp = new respuesta();
+            try
+            {
+                empleadoEntity emp = new empleadoEntity(empleado.rut, empleado.nombre, empleado.apellido, empleado.mail, empleado.telefono);
+                int estado = emp.actualizar(empleado.rut);
+                if (estado == 1)
+                {
+                    resp.error = false;
+                    resp.mensaje = "Empleado Modificado";
+                    resp.data = empleado;
+                }
+                else
+                {
+                    resp.error = true;
+                    resp.mensaje = "No se realizó la modificación";
+                    resp.data = null;
+                }
+                return resp;
+            }
+            catch (Exception e)
+            {
+                resp.error = true;
+                resp.mensaje = "Error:" + e.Message;
+                resp.data = null;
+                return resp;
+            }
+        }
     }
 }

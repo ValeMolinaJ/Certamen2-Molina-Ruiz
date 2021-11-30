@@ -4,3 +4,9 @@ G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\
 G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Certamen2 POO\EmpleadoLibrary\obj\Debug\EmpleadoLibrary.csproj.CoreCompileInputs.cache
 G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Certamen2 POO\EmpleadoLibrary\obj\Debug\EmpleadoLibrary.dll
 G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Certamen2 POO\EmpleadoLibrary\obj\Debug\EmpleadoLibrary.pdb
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Certamen2-Molina-Ruiz\EmpleadoLibrary\bin\Debug\EmpleadoLibrary.dll
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Certamen2-Molina-Ruiz\EmpleadoLibrary\bin\Debug\EmpleadoLibrary.pdb
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Certamen2-Molina-Ruiz\EmpleadoLibrary\obj\Debug\EmpleadoLibrary.csprojAssemblyReference.cache
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Certamen2-Molina-Ruiz\EmpleadoLibrary\obj\Debug\EmpleadoLibrary.csproj.CoreCompileInputs.cache
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Certamen2-Molina-Ruiz\EmpleadoLibrary\obj\Debug\EmpleadoLibrary.dll
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Certamen2-Molina-Ruiz\EmpleadoLibrary\obj\Debug\EmpleadoLibrary.pdb
