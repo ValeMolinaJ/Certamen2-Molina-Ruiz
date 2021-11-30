@@ -1,0 +1,13 @@
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Certamen2 POO\WindowsFormsEmpleado\bin\Debug\WindowsFormsEmpleado.exe.config
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Certamen2 POO\WindowsFormsEmpleado\bin\Debug\WindowsFormsEmpleado.exe
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Certamen2 POO\WindowsFormsEmpleado\bin\Debug\WindowsFormsEmpleado.pdb
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Certamen2 POO\WindowsFormsEmpleado\bin\Debug\EmpleadoLibrary.dll
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Certamen2 POO\WindowsFormsEmpleado\bin\Debug\EmpleadoLibrary.pdb
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Certamen2 POO\WindowsFormsEmpleado\obj\Debug\WindowsFormsEmpleado.csprojAssemblyReference.cache
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Certamen2 POO\WindowsFormsEmpleado\obj\Debug\WindowsFormsEmpleado.Form1.resources
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Certamen2 POO\WindowsFormsEmpleado\obj\Debug\WindowsFormsEmpleado.Properties.Resources.resources
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Certamen2 POO\WindowsFormsEmpleado\obj\Debug\WindowsFormsEmpleado.csproj.GenerateResource.cache
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Certamen2 POO\WindowsFormsEmpleado\obj\Debug\WindowsFormsEmpleado.csproj.CoreCompileInputs.cache
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Certamen2 POO\WindowsFormsEmpleado\obj\Debug\WindowsFormsEmpleado.csproj.CopyComplete
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Certamen2 POO\WindowsFormsEmpleado\obj\Debug\WindowsFormsEmpleado.exe
+G:\Ing. Computacion e informatica\Segundo semestre\Lenguaje de Programación OO\Certamen2 POO\WindowsFormsEmpleado\obj\Debug\WindowsFormsEmpleado.pdb
